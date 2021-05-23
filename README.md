@@ -1,3 +1,3 @@
 # Coursera-Stanford-ML    
 TODO:    
-Upload ex5 - ex8
+Upload ex6 - ex8
