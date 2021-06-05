@@ -1,4 +1,5 @@
 # Coursera-Stanford-ML    
 TODO:    
-Upload ex6 - ex8    
+Upload ex8    
+make a description and links
 [Lectures text materials](https://machinelearningmedium.com/tag/andrew-ng/4/)
